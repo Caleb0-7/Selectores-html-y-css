@@ -1,0 +1,13 @@
+/*Selector de ID*/
+
+#encabezado{
+    color: red;
+}/*La especifisidad de un id es mal alta que la de una clase por lo cual se va aplicar aunque haya una clase */
+
+.texto{
+    color: blue;
+}
+
+#encabezado.texto{
+    color: tomato;
+} /*Un selector de un ID y una clase tiene una especifisidad aun mas alta*/

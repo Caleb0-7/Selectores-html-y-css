@@ -1,0 +1,7 @@
+/** Seleccionar todos los elementos exepto uno o unos **/
+
+p:not(.texto):not(.oferta){
+    color: red;
+}
+
+/*Este tipo de selector nos permite seleccionar exepto uno o unos con la pseudoclase not()*/

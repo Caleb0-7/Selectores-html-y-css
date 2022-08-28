@@ -1,0 +1,9 @@
+/*Primer linea o primer palabra*/
+
+.primer-letra::first-letter{
+    font-size: 10rem;
+}/*Para seleccionar la primer palabra usaremos un pseudoelemento '::first-letter'*/
+
+.primer-linea::first-line{
+    font-size: 4rem;
+}/*Para seleccionar la primer linea usaremos un pseudoelemento '::first-line'*/

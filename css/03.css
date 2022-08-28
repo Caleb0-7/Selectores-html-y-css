@@ -1,0 +1,21 @@
+/*Selector de 2 Clases*/
+
+.texto{
+    background-color: red;
+}
+.azul{
+    color: blue;
+}
+.mayusculas{
+    text-transform: uppercase;
+}
+
+.texto.mayusculas{
+    font-size: 10rem;
+}/*
+  este selector quiere decir que estamos seleccionando dos clases dentro de un elemento
+  */
+
+.texto.azul{
+    text-align: right;
+}

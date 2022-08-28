@@ -1,0 +1,10 @@
+/*Selector de atributo*/
+a[href$=".com"]{
+    background-color: aqua;
+}
+
+input[type="tel"] {
+    border: 3px solid crimson;
+}
+
+/*El selector atributo como el nombre lo dice seleccionan el atributo de una etiqueta html*/

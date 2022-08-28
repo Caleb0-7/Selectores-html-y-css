@@ -1,0 +1,7 @@
+/*Selector primer nivel de hijos*/
+
+.admin > div{
+    border: 2px solid red;
+}
+
+/*Este selector Selecciona el primer nivel de hijos de una clase para lograr esto usaremos ">" el signo de mayor que */

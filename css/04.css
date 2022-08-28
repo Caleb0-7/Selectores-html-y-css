@@ -1,0 +1,14 @@
+/*Selectores de clases anidadas*/
+
+.header .descripcion{
+    color: red;
+}  /*Este selector quiere decir que estamos seleccionando una clase de un elemento hijo dentro de una clase de un elemento padre
+    
+   .elemento-padre .elemento-hijo
+
+   Este tipo de selectores de clases anidadas tiene un especifisidad mas alta que un selector de una sola clase
+*/
+
+.descripcion{
+    color: blue;
+}

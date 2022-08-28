@@ -1,0 +1,22 @@
+/** 2 Elementos **/
+
+/*
+.texto{
+    border: 5px solid red;
+    padding: 2rem;
+   
+}
+
+.oferta{
+    border: 5px solid red;
+    padding: 2rem;
+}
+*/
+
+.texto, 
+.oferta{
+    border: 5px solid red;
+    padding: 2rem;
+}
+
+/*Puedes aplicar las mismas reglas css a dos elementos separando las clase por comas*/

@@ -1,0 +1,9 @@
+/*Selector de etiqueta y clase*/
+
+div.texto{
+    background-color: yellow;
+}/*Este selector se utiliza para seleccionar una etiqueta con un clase la cual tiene mas especifisidad y solo se aplicara a las etiquetas seleccionada que contenga esa clase*/
+
+.texto{
+    background-color: red;
+}

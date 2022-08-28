@@ -1,0 +1,7 @@
+/*Primer elemento despues*/
+
+.admin div + p{
+   background-color: red;
+}
+
+/*Para seleccionar un elemento despues del primer pimer hijo utlizaremos el signo "+" de esta forma podemos seleccionar el primer elemento depues del primer hijo */

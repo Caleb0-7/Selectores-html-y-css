@@ -1,0 +1,8 @@
+/*Selector de etiqueta*/
+
+p{
+    font-size: 2rem;
+    color: red;
+}
+
+/*Aplica las propiedades a todas las etiquetas*/
